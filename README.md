@@ -26,8 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpizzinidev&show_icons=true&locale=en&layout=compact" alt="lpizzinidev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lpizzinidev&show_icons=true&locale=en" alt="lpizzinidev" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
