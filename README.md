@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">Software Engineer from Italy</h3>
 
-- 🌱 I’m currently learning **Python, CI/CD with Docker and Github Actions**
+- 🌱 I’m currently learning
+
+  - **Python**
+  - **CI/CD with Docker and Github Actions**
 
 - 📝 I regularly write articles on [https://lpizzinidev.medium.com/](https://lpizzinidev.medium.com/)
 
