@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning
 
-  - **Python**
   - **Next.js**
+  - **TypeScript**
 
 - 📝 I regularly write articles on [https://lpizzinidev.medium.com/](https://lpizzinidev.medium.com/)
 
