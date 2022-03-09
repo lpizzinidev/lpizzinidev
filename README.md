@@ -17,7 +17,7 @@
 - [Express.js testing: mocking MongoDB](https://medium.com/weekly-webtips/express-js-testing-mocking-mongodb-46c3797a201?source=rss-3930877de2f2------2)
 - [Why you should read more blogs as a developer](https://medium.com/codex/why-you-should-read-more-blogs-as-a-developer-f8c9933e626e?source=rss-3930877de2f2------2)
 - [iOS Ad Hoc distribution](https://medium.com/swift2go/ios-ad-hoc-distribution-33ecabbadb4e?source=rss-3930877de2f2------2)
-- [How to level up your GitHub contribution](https://medium.com/codex/how-to-level-up-your-github-contribution-11f38a346326?source=rss-3930877de2f2------2)
+- [A complete guide to React forms](https://medium.com/weekly-webtips/a-complete-guide-to-react-forms-15fa079c6177?source=rss-3930877de2f2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
