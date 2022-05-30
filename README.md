@@ -8,8 +8,6 @@
 
 - 📝 I regularly write articles on [https://lpizzinidev.medium.com/](https://lpizzinidev.medium.com/)
 
-- 📫 How to reach me **lpizzini7@gmail.com**
-
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
