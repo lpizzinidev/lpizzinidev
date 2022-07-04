@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">Full-Stack Engineer from Italy</h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/luca-pizzini" target="blank">LinkedIn</a>
+-
+<a href="https://stackoverflow.com/users/13211263" target="blank">StackOverflow</a>
+-
+<a href="https://medium.com/@lpizzinidev" target="blank">Medium</a>
+-
+<a href="https://www.leetcode.com/lpizzini7" target="blank">LeetCode</a>
+</p>
+
 - 🌱 I’m currently learning
 
   - **Next.js**
@@ -17,16 +27,6 @@
 - [A complete guide to React forms](https://medium.com/weekly-webtips/a-complete-guide-to-react-forms-15fa079c6177?source=rss-3930877de2f2------2)
 - [Useful activities that will boost your developer skills](https://lpizzinidev.medium.com/useful-activities-that-will-boost-your-developer-skills-68bc642f01dc?source=rss-3930877de2f2------2)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luca-pizzini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca-pizzini" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13211263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13211263" height="30" width="40" /></a>
-<a href="https://medium.com/@lpizzinidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lpizzinidev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lpizzini7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lpizzini7" height="30" width="40" /></a>
-</p>
 
 ---
 
