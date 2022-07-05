@@ -11,23 +11,6 @@
 <a href="https://www.leetcode.com/lpizzini7" target="blank">LeetCode</a>
 </p>
 
-- 🌱 I’m currently learning
-
-  - **Next.js**
-  - **TypeScript**
-
-- 📝 I regularly write articles on [https://lpizzinidev.medium.com/](https://lpizzinidev.medium.com/)
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to maximize your focus during the day](https://lpizzinidev.medium.com/how-to-maximize-your-focus-during-the-day-88ceffcfa3f8?source=rss-3930877de2f2------2)
-- [Express.js testing: mocking MongoDB](https://medium.com/weekly-webtips/express-js-testing-mocking-mongodb-46c3797a201?source=rss-3930877de2f2------2)
-- [Why you should read more blogs as a developer](https://medium.com/codex/why-you-should-read-more-blogs-as-a-developer-f8c9933e626e?source=rss-3930877de2f2------2)
-- [A complete guide to React forms](https://medium.com/weekly-webtips/a-complete-guide-to-react-forms-15fa079c6177?source=rss-3930877de2f2------2)
-- [Useful activities that will boost your developer skills](https://lpizzinidev.medium.com/useful-activities-that-will-boost-your-developer-skills-68bc642f01dc?source=rss-3930877de2f2------2)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
