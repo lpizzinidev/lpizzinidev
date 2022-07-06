@@ -11,7 +11,6 @@
 <a href="https://www.leetcode.com/lpizzini7" target="blank">LeetCode</a>
 </p>
 
----
 
 <h4 align="center">Recently used</h4>
 <p align="center">
