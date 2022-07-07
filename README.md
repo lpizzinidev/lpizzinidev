@@ -19,5 +19,10 @@ JavaScript / TypeScript / React / Next.js / Node.js / Express.js / MongoDB
 
 <h4 align="center">Worked with</h4>
 <p align="center">
-Android / Kotlin / PHP / Laravel / MySQL
+Android / Kotlin / iOS / Swift / PHP / Laravel / MySQL
+</p>
+
+<h4 align="center">Learning</h4>
+<p align="center">
+C++
 </p>
