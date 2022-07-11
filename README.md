@@ -8,7 +8,7 @@
 -
 <a href="https://medium.com/@lpizzinidev" target="blank">Medium</a>
 -
-<a href="https://www.leetcode.com/lpizzini7" target="blank">LeetCode</a>
+<a href="https://www.leetcode.com/lpizzinidev" target="blank">LeetCode</a>
 </p>
 
 
