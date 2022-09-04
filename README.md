@@ -16,7 +16,7 @@
 
 <h4 align="center">Recently used</h4>
 <p align="center">
-JavaScript / TypeScript / React / Next.js / Node.js / Express.js / MongoDB
+JavaScript / TypeScript / React.js / Next.js / Node.js / Express.js / MongoDB
 </p>
 
 <h4 align="center">Worked with</h4>
